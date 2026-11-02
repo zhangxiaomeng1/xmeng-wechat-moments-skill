@@ -1,0 +1,4 @@
+interface:
+  display_name: "晓檬朋友圈写作"
+  short_description: "根据真实做事素材和本人修改样本，写自然口语、克制利他的朋友圈文案"
+  default_prompt: "使用 $xmeng-wechat-moments，根据我提供的经历或素材写一篇真诚、自然、可直接发的朋友圈文案。"
